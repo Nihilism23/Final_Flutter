@@ -160,8 +160,8 @@ name,classroom,dayOfWeek,period
 
 ## 使用截图
 
-![Schedule](flutter_run_1.png)
-![Settings](flutter_run_2.png)
+![Schedule](lib/flutter_run_1.jpg)
+![Settings](lib/flutter_run_2.jpg)
 
 ## 设计理念
 
