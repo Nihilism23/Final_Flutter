@@ -1,0 +1,31 @@
+name: super_weather_schedule
+description: A super weather and course schedule app.
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  csv: ^5.1.1
+  file_picker: ^8.0.0
+  http: ^1.1.0
+  dio: ^5.4.0
+  shared_preferences: ^2.2.2
+  intl: ^0.20.0
+  flutter_weather_bg: ^3.0.0
+  geolocator: ^10.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
